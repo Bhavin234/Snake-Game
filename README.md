@@ -11,7 +11,6 @@ This is a classic Snake game implemented in Python using the Pygame library. The
 - [Controls](#controls)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -32,21 +31,19 @@ Before running the game, make sure you have the following installed:
    git clone https://github.com/your-username/snake-game-pygame.git
 Navigate to the project directory:
 
-cd snake-game-pygame
-Run the game:
-
-python main.py
-How to Play
+### How to Play
 Control the snake's direction using arrow keys (Up, Down, Left, Right).
 The snake grows longer when it consumes food.
 The game ends when the snake collides with the walls or itself.
-Controls
+
+### Controls
 Up Arrow: Move the snake upward
 Down Arrow: Move the snake downward
 Left Arrow: Move the snake leftward
 Right Arrow: Move the snake rightward
-Customization
+
+### Customization
 Feel free to customize the game by adjusting variables, adding features, or modifying the code. You can also replace the default assets (images, fonts) with your own.
 
-Contributing
+### Contributing
 If you would like to contribute to the project, please follow the contributing guidelines.
